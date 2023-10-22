@@ -1,5 +1,0 @@
-{...}: {
-  imports = [
-    ../plugins/default.nix
-  ];
-}
